@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../../style/tweet.xsl"?>
+<tweet>
+	<created_at></created_at>
+	<id></id>
+	<lang>en</lang>
+	<text></text>
+	<attachments>
+		<media></media>
+	</attachments>
+	<author>
+		<created_at>2016-12-12T16:58:22.000Z</created_at>
+		<id>808355323643731968</id>
+		<name>William Buckner</name>
+		<username>Evolving_Moloch</username>
+	</author>
+	<thread>
+		<id></id>
+		<id></id>
+	</thread>
+</tweet>
