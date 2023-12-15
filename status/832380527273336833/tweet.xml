@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../../style/tweet.xsl"?>
+<tweet>
+	<created_at>2017-02-17T00:05:57.000Z</created_at>
+	<id>832380527273336833</id>
+	<lang>en</lang>
+	<text>The central goal of any ideological movement (or interpersonal debate) should be to convince skeptics who may be amenable to your arguments.</text>
+	<author>
+		<created_at>2016-12-12T16:58:22.000Z</created_at>
+		<id>808355323643731968</id>
+		<name>William Buckner</name>
+		<username>Evolving_Moloch</username>
+	</author>
+</tweet>
