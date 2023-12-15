@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../../style/tweet.xsl"?>
+<tweet>
+	<created_at>2017-02-17T19:29:10.000Z</created_at>
+	<id>832673259711631360</id>
+	<lang>en</lang>
+	<text>Despite demands of policy makers, decentralized norms and institutions are often more stable than top down central planning, for good or ill</text>
+	<author>
+		<created_at>2016-12-12T16:58:22.000Z</created_at>
+		<id>808355323643731968</id>
+		<name>William Buckner</name>
+		<username>Evolving_Moloch</username>
+	</author>
+</tweet>
