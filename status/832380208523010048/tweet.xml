@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../../style/tweet.xsl"?>
+<tweet>
+	<created_at>2017-02-17T00:04:41.000Z</created_at>
+	<id>832380208523010048</id>
+	<lang>en</lang>
+	<text>How to foster cooperation between polarized groups? Find areas where their self-interest aligns. Promote mutually beneficial exchanges.</text>
+	<author>
+		<created_at>2016-12-12T16:58:22.000Z</created_at>
+		<id>808355323643731968</id>
+		<name>William Buckner</name>
+		<username>Evolving_Moloch</username>
+	</author>
+</tweet>
